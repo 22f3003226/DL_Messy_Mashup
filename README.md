@@ -4,10 +4,13 @@
 
 ***Shibashish Banerjee - 22f3003226***
 
--- /Codes
-|__ All milestones as seperate branches
--- /Scripts
-|__ All intermediate scripts
+## Repository Structure
 
+The repository is organized as follows:
 
---Empty folder structure (e.g., /scripts, /notebooks, /data).--
+```text
+|-- Codes                 # All milestone codes as separate branches
+|-- Scripts               # All intermediate codes
+|-- Final                 # (To be made) Contains final deliverables
+|   |-- Reports           # Final reports
+|   |-- Notebook          # Jupyter notebooks and analysis
