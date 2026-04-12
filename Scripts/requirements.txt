@@ -1,0 +1,8 @@
+torch
+torchaudio
+transformers
+huggingface_hub
+gradio
+numpy
+timm
+librosa
