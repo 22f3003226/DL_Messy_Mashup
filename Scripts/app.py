@@ -15,7 +15,8 @@ warnings.filterwarnings('ignore')
 # ─── Config ───────────────────────────────────────────────
 from huggingface_hub import login
 login(token=os.environ.get("HF_TOKEN"))
-REPO_ID  = "xytan2022/checkpoints"   # ← change this
+#login(token=os.environ.get("----------"))
+REPO_ID  = "xytan2022/checkpoints"   
 DEVICE   = "cuda" if torch.cuda.is_available() else "cpu"
 USE_AMP  = False   # set False for CPU inference on HF Spaces
 
