@@ -17,7 +17,7 @@
 
 ## 🔗 Live Demo
 
-> 🤗 **Hosted on Hugging Face Spaces:** [INSERT YOUR HUGGING FACE LINK HERE]
+> 🤗 **Hosted on Hugging Face Spaces:** (https://xytan2022-messy-mashup.hf.space)
 
 ---
 
